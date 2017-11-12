@@ -1,0 +1,1 @@
+java -cp ErettsegiValasztasokJava-1.0-SNAPSHOT.jar eu.jedlik.ErettsegiValasztasokJava.App
